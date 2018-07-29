@@ -2,4 +2,4 @@
 
 ## Katkıda Bulunanlar:
 #### Uğur Kurt
-#### Kemal MUtlu
+#### Kemal Mutlu
