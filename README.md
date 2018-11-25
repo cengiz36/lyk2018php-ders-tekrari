@@ -1,108 +1,108 @@
 # İçindekiler
 
-- ###  25.08.2018
+###  25.08.2018
 
- - #### Git
+ -  Git
 
- - #### Temel Linux Komutları
+ -  Temel Linux Komutları
 
- - #### Content Delvery Network
+ -  Content Delvery Network
 
- - #### Search Engine Optimization
+ -  Search Engine Optimization
 
- - #### Bootstrap
+ -  Bootstrap
 
- - #### Atom Editörü
+ -  Atom Editörü
 
- - #### PHP Sihirli Karakterler
+ -  PHP Sihirli Karakterler
 
- - #### PHP IF-ELSE , Foreach Yapısı
+ -  PHP IF-ELSE , Foreach Yapısı
 
- - #### PHP Fonksiyonları
+ -  PHP Fonksiyonları
 
-- ### 26.07.2018
- - #### Duck Duck Go
+### 26.07.2018
+ -  Duck Duck Go
 
- - #### Algoritma Nedir
+ -  Algoritma Nedir
 
- - #### PHP Nedir ?
+ -  PHP Nedir ?
 
- - #### Markdown
+ -  Markdown
 
- - #### PHP Fonksiyonları
+ -  PHP Fonksiyonları
 
-- ### 27.07.2018
- - #### PHP Fonksiyonları
+### 27.07.2018
+ -  PHP Fonksiyonları
 
- - #### Style Media Etiketi Ne İşe Yarar ?
+ -  Style Media Etiketi Ne İşe Yarar ?
 
- - #### Linux Terminal İçin Bazı Komutlar
+ -  Linux Terminal İçin Bazı Komutlar
 
- - #### IF-ELSE Yapısı
+ -  IF-ELSE Yapısı
 
-- ### 28.07.2018
+### 28.07.2018
 
- - #### Virtual Private Server
+ -  Virtual Private Server
 
- - #### Shared Hosting
+ -  Shared Hosting
 
- - #### Linux Terminak İçin Bazı Komutlar
+ -  Linux Terminak İçin Bazı Komutlar
 
- - #### Bootstrap İçin Bazı Classlar
+ -  Bootstrap İçin Bazı Classlar
 
- - #### PHP Fonksiyonları
+ -  PHP Fonksiyonları
 
-- ### 29.07.2018
- - #### Themeforest Ve Freepik Sitelerinin Ne İşe Yaradığı
+### 29.07.2018
+ -  Themeforest Ve Freepik Sitelerinin Ne İşe Yaradığı
 
- - #### Wordle
+ -  Wordle
 
- - #### Draw.io
+ -  Draw.io
 
- - #### Wetransfer.com
+ -  Wetransfer.com
 
- - #### Spagetti Kod Nedir ?
+ -  Spagetti Kod Nedir ?
 
- - #### Model View Controller
+ -  Model View Controller
 
- - #### Emmet Nedir ?
+ -  Emmet Nedir ?
 
- - #### Stop Words
+ -  Stop Words
 
- - #### Linux Erişim Yetkileri
+ -  Linux Erişim Yetkileri
 
- - #### PHP Fonksiyonları
+ -  PHP Fonksiyonları
 
- - #### Linux Bazı Terminal Komutları
+ -  Linux Bazı Terminal Komutları
 
-- ### 30.07.2018
- - #### PHP Fonksiyonları
+### 30.07.2018
+ -  PHP Fonksiyonları
 
- - #### PHP İle Resme Yazı Yazma
+ -  PHP İle Resme Yazı Yazma
 
- - #### Micropython
+ -  Micropython
 
- - #### GET-POST
+ -  GET-POST
 
-- ### 01.08.2018
- - #### Mind Map
- - #### GEODATA
- - #### Google Maps API Key
- - #### Git Time Machine
- - #### Pivot
- - #### Application Programming Interface
- - #### Toplu SMS API
- - #### GET-POST-FILES-SESSION
- - #### Dosya İzinleri
- - #### Oturum Başlatma Ve Sonlandırma
- - #### SQL Nedir ?
- - #### SQL Komutları
-- ### 02.08.2018
- - #### Google Charts API
- - #### Adminer
- - #### Mysqli_ ve PDO
- - #### Mysqli Komutları
- - #### SQL Veri Tipleri
+### 01.08.2018
+ -  Mind Map
+ -  GEODATA
+ -  Google Maps API Key
+ -  Git Time Machine
+ -  Pivot
+ -  Application Programming Interface
+ -  Toplu SMS API
+ -  GET-POST-FILES-SESSION
+ -  Dosya İzinleri
+ -  Oturum Başlatma Ve Sonlandırma
+ -  SQL Nedir ?
+ -  SQL Komutları
+ ### 02.08.2018
+ -  Google Charts API
+ -  Adminer
+ -  Mysqli_ ve PDO
+ -  Mysqli Komutları
+ -  SQL Veri Tipleri
 # LYK2018-PHP sınıfında işlenen derste aldığım notlar.
 
 ## Öğretmenlerimiz:
