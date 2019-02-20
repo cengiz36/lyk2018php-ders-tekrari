@@ -1,4 +1,4 @@
-# (Güncel Hali)[https://github.com/kemalmutlu/PHP-Egitimi]
+# [Notların Güncel Hali](https://github.com/kemalmutlu/PHP-Egitimi)
 
 # İçindekiler
 
